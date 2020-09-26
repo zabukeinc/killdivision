@@ -1,0 +1,3 @@
+<?php
+
+heder("Location:public/");
